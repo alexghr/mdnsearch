@@ -19,3 +19,4 @@ Start by typing the keyword, `mdn` in the Omnibox followed by a `Space` or a `Ta
 2. Smarter suggestions
 3. Show more information in suggestions
 4. Faster loading of pages
+5. Add icons
