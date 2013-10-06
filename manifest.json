@@ -1,3 +1,14 @@
 {
-	
+	"manifest_version": 2,
+  "name": "MDNSearch",
+  "version": "1.0",
+  "omnibox": {
+    "keyword": "mdn"
+  },
+  "background": {
+    "persistent": false,
+    "scripts": [
+      "mdnsearch.js"
+    ]
+  }
 }
